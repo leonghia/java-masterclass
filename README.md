@@ -1,7 +1,5 @@
 # Java Programming Masterclass
 
-https://www.udemy.com/course/java-the-complete-java-developer-course/
-<br>
 **Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification**
 
 ![java-programming-masterclass-cover-image](https://user-images.githubusercontent.com/112583996/229264183-283b7e0f-dbb9-4714-906d-12ef23b51305.jpg)
