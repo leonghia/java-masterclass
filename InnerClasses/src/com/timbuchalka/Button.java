@@ -3,7 +3,7 @@ package com.timbuchalka;
 public class Button {
 
     private String title;
-    private OnClickListener onClickListener;
+    private OnClickListener onClickLister;
 
     public Button(String title) {
         this.title = title;
@@ -14,10 +14,14 @@ public class Button {
     }
 
     public void setOnClickListener(OnClickListener onClickListener) {
-        this.onClickListener = onClickListener;
+        this.onClickLister = onClickListener;
     }
 
     public void onClick() {
-        this.onClickListener.onClick(this.title);
+        this.onClickLister.onClick(this.title);
+    }
+
+    public interface OnClickListener {
+        public void onClick(String title);
     }
 }

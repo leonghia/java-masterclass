@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01836092-e8cd-44cd-a9eb-3a25cd6e9aa6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/InnerClasses.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/timbuchalka/Button.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/timbuchalka/Gearbox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/timbuchalka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/DeskPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/DeskPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/ITelephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/ITelephone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/timbuchalka/MobilePhone.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OMly0IUwtbZ1n76jph8M9Wk0jB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01836092-e8cd-44cd-a9eb-3a25cd6e9aa6" name="Changes" comment="" />
+      <created>1681378582456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681378582456</updated>
+    </task>
+    <servers />
+  </component>
+</project>
