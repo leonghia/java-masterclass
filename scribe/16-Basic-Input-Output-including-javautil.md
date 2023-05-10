@@ -1,3 +1,5 @@
+# Section 16: Basic Input and Ouput including java.util
+
 There are two main approaches to dealing with errors when programming. They're often referred to as **LBYL** (Look before you leap) and **EAFP** (Easy to ask for forgiveness than permission).
 
 Example of LBYL:
